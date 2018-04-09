@@ -1,0 +1,55 @@
+{
+	"groups": [
+		{
+			"keys": "bgImage,btnStart,f1,f2,b1,b2,img_0,blowParticle,img_1",
+			"name": "preload"
+		}
+	],
+	"resources": [
+		{
+			"url": "assets/bg.jpg",
+			"type": "image",
+			"name": "bgImage"
+		},
+		{
+			"url": "assets/btn_start.png",
+			"type": "image",
+			"name": "btnStart"
+		},
+		{
+			"url": "assets/f1.png",
+			"type": "image",
+			"name": "f1"
+		},
+		{
+			"url": "assets/f2.png",
+			"type": "image",
+			"name": "f2"
+		},
+		{
+			"url": "assets/b1.png",
+			"type": "image",
+			"name": "b1"
+		},
+		{
+			"url": "assets/b2.png",
+			"type": "image",
+			"name": "b2"
+		},
+		{
+			"url": "assets/img_0.png",
+			"type": "image",
+			"name": "img_0"
+		},
+		{
+			"url": "assets/blowParticle.json",
+			"type": "json",
+			"name": "blowParticle"
+		},
+		{
+			"url": "assets/img_1.png",
+			"type": "image",
+			"name": "img_1"
+		}
+	]
+}
